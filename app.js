@@ -1,1 +1,1 @@
-console.log("hej verden");
+console.log("hej");
